@@ -2,6 +2,7 @@
 Machine learning based recommandation system (in progress).
 
 ## Quickstart
+We are in research phase. So just install virtual env, update dependencies & continue to search.
 ```
 python -m venv auth
 source auth/bin/activate
@@ -10,3 +11,4 @@ pip install -r requirements.txt
 ## References
 
 ## Author
+Mamadou Krouma
