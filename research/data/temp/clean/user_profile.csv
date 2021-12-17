@@ -1,0 +1,412 @@
+,userID,birth_year,personality,interest,religion,marital_status,activity,ambience,smoker,drink_level,hijos,color,weight,height
+0,U1001,1989,thrifty-protector,variety,none,single,student,family,false,abstemious,independent,black,69,1.77
+1,U1002,1990,hunter-ostentatious,technology,Catholic,single,student,family,false,abstemious,independent,red,40,1.87
+2,U1003,1989,hard-worker,none,Catholic,single,student,family,false,social drinker,independent,blue,60,1.69
+3,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+4,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+5,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+6,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+7,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+8,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+9,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+10,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+11,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+12,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+13,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+14,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+15,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+16,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+17,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+18,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+19,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+20,U1004,1940,hard-worker,variety,none,single,professional,family,false,abstemious,independent,green,44,1.53
+21,U1005,1992,thrifty-protector,none,Catholic,single,student,family,false,abstemious,independent,black,65,1.69
+22,U1006,1989,hard-worker,variety,none,single,student,friends,true,social drinker,independent,blue,75,1.8
+23,U1007,1989,thrifty-protector,variety,Catholic,single,student,solitary,false,casual drinker,independent,purple,60,1.59
+24,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+25,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+26,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+27,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+28,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+29,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+30,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+31,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+32,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+33,U1008,1989,hard-worker,technology,Catholic,single,student,solitary,false,social drinker,independent,green,68,1.72
+34,U1009,1991,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,kids,green,75,1.78
+35,U1009,1991,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,kids,green,75,1.78
+36,U1009,1991,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,kids,green,75,1.78
+37,U1009,1991,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,kids,green,75,1.78
+38,U1009,1991,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,kids,green,75,1.78
+39,U1009,1991,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,kids,green,75,1.78
+40,U1009,1991,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,kids,green,75,1.78
+41,U1010,1987,hard-worker,technology,none,married,student,friends,false,social drinker,kids,green,40,1.67
+42,U1011,1989,hard-worker,variety,Catholic,single,student,family,false,abstemious,independent,purple,68,1.78
+43,U1012,1988,hard-worker,technology,Catholic,single,student,family,false,casual drinker,independent,red,98,1.84
+44,U1012,1988,hard-worker,technology,Catholic,single,student,family,false,casual drinker,independent,red,98,1.84
+45,U1013,1982,thrifty-protector,retro,none,widow,professional,friends,false,abstemious,independent,blue,80,1.75
+46,U1013,1982,thrifty-protector,retro,none,widow,professional,friends,false,abstemious,independent,blue,80,1.75
+47,U1014,1990,hard-worker,none,Catholic,single,student,friends,false,abstemious,independent,blue,53,1.69
+48,U1014,1990,hard-worker,none,Catholic,single,student,friends,false,abstemious,independent,blue,53,1.69
+49,U1015,1989,thrifty-protector,technology,Catholic,single,student,family,true,social drinker,independent,black,87,1.67
+50,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+51,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+52,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+53,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+54,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+55,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+56,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+57,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+58,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+59,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+60,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+61,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+62,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+63,U1016,1991,thrifty-protector,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,green,70,1.67
+64,U1017,1991,hunter-ostentatious,retro,none,single,professional,family,false,casual drinker,?,orange,79,1.79
+65,U1017,1991,hunter-ostentatious,retro,none,single,professional,family,false,casual drinker,?,orange,79,1.79
+66,U1018,1989,thrifty-protector,technology,Christian,single,student,friends,true,casual drinker,independent,blue,65,1.83
+67,U1019,1989,thrifty-protector,variety,Catholic,single,student,family,false,casual drinker,independent,purple,59,1.6
+68,U1020,1982,hard-worker,technology,Catholic,single,professional,friends,false,abstemious,independent,blue,40,1.68
+69,U1020,1982,hard-worker,technology,Catholic,single,professional,friends,false,abstemious,independent,blue,40,1.68
+70,U1021,1984,hard-worker,none,Catholic,single,student,family,false,social drinker,dependent,purple,108,1.62
+71,U1021,1984,hard-worker,none,Catholic,single,student,family,false,social drinker,dependent,purple,108,1.62
+72,U1021,1984,hard-worker,none,Catholic,single,student,family,false,social drinker,dependent,purple,108,1.62
+73,U1021,1984,hard-worker,none,Catholic,single,student,family,false,social drinker,dependent,purple,108,1.62
+74,U1022,1990,hard-worker,variety,Catholic,single,student,family,false,casual drinker,independent,purple,46,1.54
+75,U1023,1988,hard-worker,none,Catholic,single,student,friends,false,casual drinker,independent,blue,103,1.79
+76,U1026,1989,hunter-ostentatious,technology,Catholic,single,student,family,false,abstemious,independent,red,49,1.55
+77,U1026,1989,hunter-ostentatious,technology,Catholic,single,student,family,false,abstemious,independent,red,49,1.55
+78,U1027,1989,thrifty-protector,retro,Catholic,single,student,?,true,social drinker,independent,purple,60,1.65
+79,U1028,1989,hard-worker,variety,Christian,single,student,family,false,abstemious,independent,blue,77,1.63
+80,U1029,1990,conformist,variety,Catholic,single,student,family,true,casual drinker,independent,white,58,1.6
+81,U1030,1991,hard-worker,eco-friendly,Catholic,single,student,family,false,casual drinker,independent,black,64,1.75
+82,U1031,1992,hard-worker,none,Catholic,married,unemployed,solitary,false,abstemious,kids,white,40,1.6
+83,U1031,1992,hard-worker,none,Catholic,married,unemployed,solitary,false,abstemious,kids,white,40,1.6
+84,U1032,1989,hard-worker,variety,Catholic,single,student,family,false,abstemious,independent,blue,40,1.75
+85,U1033,1991,hard-worker,none,none,single,student,family,false,social drinker,?,yellow,54,1.6
+86,U1034,1990,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,yellow,50,1.58
+87,U1035,1985,hunter-ostentatious,variety,none,single,student,friends,true,casual drinker,independent,red,69,1.75
+88,U1035,1985,hunter-ostentatious,variety,none,single,student,friends,true,casual drinker,independent,red,69,1.75
+89,U1036,1991,hard-worker,none,Catholic,single,student,family,false,social drinker,independent,blue,76,1.7
+90,U1037,1990,thrifty-protector,variety,Catholic,single,student,family,false,social drinker,independent,blue,52,1.5
+91,U1038,1930,thrifty-protector,variety,Catholic,single,student,family,true,social drinker,independent,blue,97,1.83
+92,U1039,1989,hard-worker,none,none,single,student,friends,false,social drinker,independent,yellow,83,1.73
+93,U1040,1994,thrifty-protector,none,Catholic,single,student,friends,false,abstemious,independent,blue,73,1.64
+94,U1041,1985,hunter-ostentatious,eco-friendly,Catholic,single,professional,friends,false,abstemious,independent,white,40,1.62
+95,U1041,1985,hunter-ostentatious,eco-friendly,Catholic,single,professional,friends,false,abstemious,independent,white,40,1.62
+96,U1041,1985,hunter-ostentatious,eco-friendly,Catholic,single,professional,friends,false,abstemious,independent,white,40,1.62
+97,U1041,1985,hunter-ostentatious,eco-friendly,Catholic,single,professional,friends,false,abstemious,independent,white,40,1.62
+98,U1042,1943,thrifty-protector,technology,Christian,single,student,family,false,abstemious,independent,yellow,40,1.4
+99,U1043,1989,hard-worker,technology,none,single,student,solitary,false,abstemious,independent,white,60,1.64
+100,U1044,1969,thrifty-protector,variety,Catholic,married,professional,family,true,social drinker,kids,orange,85,1.73
+101,U1044,1969,thrifty-protector,variety,Catholic,married,professional,family,true,social drinker,kids,orange,85,1.73
+102,U1044,1969,thrifty-protector,variety,Catholic,married,professional,family,true,social drinker,kids,orange,85,1.73
+103,U1044,1969,thrifty-protector,variety,Catholic,married,professional,family,true,social drinker,kids,orange,85,1.73
+104,U1045,1991,thrifty-protector,technology,Mormon,single,student,friends,false,casual drinker,independent,orange,68,1.6
+105,U1045,1991,thrifty-protector,technology,Mormon,single,student,friends,false,casual drinker,independent,orange,68,1.6
+106,U1045,1991,thrifty-protector,technology,Mormon,single,student,friends,false,casual drinker,independent,orange,68,1.6
+107,U1045,1991,thrifty-protector,technology,Mormon,single,student,friends,false,casual drinker,independent,orange,68,1.6
+108,U1046,1990,hard-worker,retro,Catholic,single,student,friends,false,social drinker,independent,black,82,1.84
+109,U1047,1992,thrifty-protector,retro,Catholic,single,student,family,false,abstemious,independent,purple,60,1.63
+110,U1048,1988,thrifty-protector,eco-friendly,none,single,student,?,true,casual drinker,independent,green,65,1.7
+111,U1049,1991,hard-worker,none,none,single,student,solitary,false,casual drinker,?,blue,55,1.6
+112,U1050,1989,hard-worker,variety,none,single,student,family,false,social drinker,independent,green,73,1.71
+113,U1051,1979,thrifty-protector,variety,none,single,professional,family,false,casual drinker,independent,blue,74,1.76
+114,U1051,1979,thrifty-protector,variety,none,single,professional,family,false,casual drinker,independent,blue,74,1.76
+115,U1052,1990,conformist,none,Catholic,single,student,family,true,social drinker,independent,blue,85,1.8
+116,U1053,1990,thrifty-protector,variety,Catholic,single,student,family,false,casual drinker,independent,red,66,1.72
+117,U1054,1992,thrifty-protector,technology,Catholic,single,student,family,false,social drinker,independent,blue,59,1.7
+118,U1055,1952,hard-worker,none,Catholic,married,professional,family,false,abstemious,dependent,blue,70,1.66
+119,U1056,1930,hard-worker,none,Catholic,single,student,family,false,social drinker,independent,yellow,61,1.62
+120,U1057,1989,hunter-ostentatious,technology,Catholic,single,student,friends,true,casual drinker,independent,yellow,69,1.83
+121,U1057,1989,hunter-ostentatious,technology,Catholic,single,student,friends,true,casual drinker,independent,yellow,69,1.83
+122,U1058,1991,hard-worker,variety,Catholic,single,student,family,false,abstemious,independent,red,74,1.78
+123,U1059,1987,thrifty-protector,technology,Catholic,single,student,friends,false,abstemious,independent,blue,57,1.69
+124,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+125,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+126,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+127,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+128,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+129,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+130,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+131,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+132,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+133,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+134,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+135,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+136,U1060,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,blue,82,1.84
+137,U1061,1990,hard-worker,none,Catholic,single,professional,friends,false,social drinker,independent,blue,40,1.76
+138,U1061,1990,hard-worker,none,Catholic,single,professional,friends,false,social drinker,independent,blue,40,1.76
+139,U1062,1985,hard-worker,variety,Catholic,single,student,friends,false,casual drinker,independent,yellow,88,1.68
+140,U1062,1985,hard-worker,variety,Catholic,single,student,friends,false,casual drinker,independent,yellow,88,1.68
+141,U1063,1988,conformist,eco-friendly,Catholic,single,student,family,false,casual drinker,independent,red,80,1.78
+142,U1064,1991,hunter-ostentatious,variety,none,single,student,solitary,false,casual drinker,independent,blue,94,1.77
+143,U1065,1989,conformist,technology,Catholic,single,student,friends,false,abstemious,independent,green,55,1.72
+144,U1066,1986,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,?,green,45,1.45
+145,U1066,1986,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,?,green,45,1.45
+146,U1067,1987,thrifty-protector,technology,Christian,single,student,family,false,abstemious,independent,green,92,1.73
+147,U1068,1988,thrifty-protector,technology,Catholic,single,student,friends,false,casual drinker,independent,blue,72,1.57
+148,U1069,1983,thrifty-protector,variety,Catholic,single,professional,family,false,social drinker,independent,black,60,1.56
+149,U1069,1983,thrifty-protector,variety,Catholic,single,professional,family,false,social drinker,independent,black,60,1.56
+150,U1070,1991,thrifty-protector,variety,Catholic,single,student,friends,false,casual drinker,independent,green,47,1.6
+151,U1071,1930,hunter-ostentatious,none,none,single,student,friends,false,abstemious,independent,blue,40,1.73
+152,U1072,1984,thrifty-protector,eco-friendly,Christian,single,student,family,false,casual drinker,independent,red,50,1.54
+153,U1072,1984,thrifty-protector,eco-friendly,Christian,single,student,family,false,casual drinker,independent,red,50,1.54
+154,U1073,1989,hard-worker,none,none,widow,unemployed,solitary,false,abstemious,kids,yellow,118,1.79
+155,U1074,1967,hard-worker,eco-friendly,Catholic,single,professional,family,true,casual drinker,kids,black,68,1.7
+156,U1074,1967,hard-worker,eco-friendly,Catholic,single,professional,family,true,casual drinker,kids,black,68,1.7
+157,U1075,1991,thrifty-protector,technology,Catholic,single,student,family,false,casual drinker,independent,white,68,1.6
+158,U1076,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,65,1.71
+159,U1076,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,65,1.71
+160,U1076,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,65,1.71
+161,U1077,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,65,1.71
+162,U1077,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,65,1.71
+163,U1077,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,65,1.71
+164,U1078,1983,hard-worker,variety,Catholic,single,professional,solitary,true,social drinker,independent,blue,69,1.69
+165,U1078,1983,hard-worker,variety,Catholic,single,professional,solitary,true,social drinker,independent,blue,69,1.69
+166,U1078,1983,hard-worker,variety,Catholic,single,professional,solitary,true,social drinker,independent,blue,69,1.69
+167,U1079,1992,thrifty-protector,technology,Catholic,single,?,family,false,abstemious,independent,black,53,1.55
+168,U1080,1987,hard-worker,variety,Catholic,single,student,friends,true,social drinker,independent,white,80,1.82
+169,U1081,1991,hard-worker,variety,Catholic,single,student,family,false,casual drinker,independent,green,52,1.54
+170,U1082,1989,hard-worker,variety,Catholic,single,student,friends,true,abstemious,?,black,63,1.69
+171,U1083,1981,hard-worker,none,none,?,?,?,false,abstemious,?,yellow,40,1.6
+172,U1084,1991,thrifty-protector,variety,Catholic,single,student,family,true,casual drinker,independent,red,65,1.6
+173,U1085,1988,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,black,84,1.7
+174,U1086,1991,hunter-ostentatious,variety,Catholic,single,student,family,false,social drinker,independent,red,49,1.59
+175,U1086,1991,hunter-ostentatious,variety,Catholic,single,student,family,false,social drinker,independent,red,49,1.59
+176,U1086,1991,hunter-ostentatious,variety,Catholic,single,student,family,false,social drinker,independent,red,49,1.59
+177,U1087,1989,thrifty-protector,variety,Catholic,single,student,solitary,false,abstemious,independent,black,53,1.55
+178,U1089,1990,conformist,variety,Catholic,single,student,family,true,casual drinker,independent,white,54,1.6
+179,U1090,1988,thrifty-protector,variety,Catholic,single,student,friends,false,social drinker,independent,blue,50,1.54
+180,U1091,1989,thrifty-protector,eco-friendly,none,single,student,family,false,casual drinker,independent,red,40,1.7
+181,U1091,1989,thrifty-protector,eco-friendly,none,single,student,family,false,casual drinker,independent,red,40,1.7
+182,U1092,1990,thrifty-protector,variety,Catholic,single,?,solitary,false,abstemious,dependent,red,70,1.69
+183,U1093,1990,thrifty-protector,variety,Catholic,single,student,family,true,casual drinker,independent,blue,80,1.67
+184,U1093,1990,thrifty-protector,variety,Catholic,single,student,family,true,casual drinker,independent,blue,80,1.67
+185,U1094,1991,thrifty-protector,variety,Catholic,single,student,friends,false,abstemious,independent,green,59,1.71
+186,U1095,1986,thrifty-protector,variety,Catholic,married,student,family,false,abstemious,independent,blue,65,1.65
+187,U1096,1990,hard-worker,eco-friendly,Catholic,single,student,family,false,abstemious,independent,black,40,1.2
+188,U1097,1990,hard-worker,variety,Catholic,single,student,family,false,abstemious,independent,black,58,1.64
+189,U1098,1991,thrifty-protector,none,Catholic,single,student,family,false,social drinker,independent,green,68,1.76
+190,U1099,1989,conformist,technology,Catholic,single,student,family,true,social drinker,independent,purple,70,2.0
+191,U1099,1989,conformist,technology,Catholic,single,student,family,true,social drinker,independent,purple,70,2.0
+192,U1100,1990,hard-worker,eco-friendly,Christian,single,student,friends,false,casual drinker,independent,black,40,1.65
+193,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+194,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+195,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+196,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+197,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+198,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+199,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+200,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+201,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+202,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+203,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+204,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+205,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+206,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+207,U1101,1988,hunter-ostentatious,eco-friendly,Catholic,single,student,friends,false,casual drinker,independent,white,50,1.69
+208,U1102,1989,conformist,eco-friendly,none,single,student,friends,false,social drinker,independent,black,90,1.78
+209,U1103,1989,hard-worker,technology,Jewish,single,professional,friends,false,abstemious,independent,green,120,1.9
+210,U1103,1989,hard-worker,technology,Jewish,single,professional,friends,false,abstemious,independent,green,120,1.9
+211,U1104,1991,hunter-ostentatious,technology,Catholic,single,student,family,true,social drinker,independent,blue,75,1.71
+212,U1104,1991,hunter-ostentatious,technology,Catholic,single,student,family,true,social drinker,independent,blue,75,1.71
+213,U1105,1991,hard-worker,variety,Christian,single,student,family,false,social drinker,independent,green,40,1.74
+214,U1106,1930,hard-worker,technology,Catholic,single,professional,friends,false,casual drinker,independent,blue,65,1.71
+215,U1106,1930,hard-worker,technology,Catholic,single,professional,friends,false,casual drinker,independent,blue,65,1.71
+216,U1107,1989,hard-worker,variety,Catholic,single,?,friends,false,abstemious,independent,blue,87,1.79
+217,U1107,1989,hard-worker,variety,Catholic,single,?,friends,false,abstemious,independent,blue,87,1.79
+218,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+219,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+220,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+221,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+222,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+223,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+224,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+225,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+226,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+227,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+228,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+229,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+230,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+231,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+232,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+233,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+234,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+235,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+236,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+237,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+238,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+239,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+240,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+241,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+242,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+243,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+244,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+245,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+246,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+247,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+248,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+249,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+250,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+251,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+252,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+253,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+254,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+255,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+256,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+257,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+258,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+259,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+260,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+261,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+262,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+263,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+264,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+265,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+266,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+267,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+268,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+269,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+270,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+271,U1108,1983,thrifty-protector,technology,Catholic,single,student,solitary,false,abstemious,independent,blue,76,1.81
+272,U1109,1989,thrifty-protector,eco-friendly,Catholic,single,student,solitary,false,abstemious,independent,blue,57,1.72
+273,U1110,1993,thrifty-protector,variety,Catholic,single,student,family,false,abstemious,independent,red,85,1.75
+274,U1111,1991,hard-worker,none,Catholic,single,student,friends,true,casual drinker,independent,white,69,1.69
+275,U1112,1991,hard-worker,none,Catholic,single,student,friends,true,casual drinker,independent,white,69,1.69
+276,U1113,1990,thrifty-protector,none,Catholic,single,student,family,false,casual drinker,independent,blue,75,1.73
+277,U1113,1990,thrifty-protector,none,Catholic,single,student,family,false,casual drinker,independent,blue,75,1.73
+278,U1114,1991,hard-worker,variety,Catholic,single,student,family,false,abstemious,independent,blue,58,1.68
+279,U1115,1990,hard-worker,variety,Catholic,single,student,friends,true,social drinker,independent,green,76,1.76
+280,U1116,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,40,1.71
+281,U1116,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,40,1.71
+282,U1116,1987,thrifty-protector,technology,Catholic,married,student,family,false,social drinker,kids,blue,40,1.71
+283,U1117,1982,thrifty-protector,technology,Catholic,single,professional,friends,false,abstemious,independent,blue,58,1.6
+284,U1117,1982,thrifty-protector,technology,Catholic,single,professional,friends,false,abstemious,independent,blue,58,1.6
+285,U1118,1987,thrifty-protector,technology,none,single,student,friends,true,casual drinker,independent,black,60,1.68
+286,U1119,1992,thrifty-protector,eco-friendly,Catholic,single,student,family,false,abstemious,independent,blue,68,1.68
+287,U1120,1930,hard-worker,variety,none,single,student,friends,false,abstemious,independent,green,47,1.57
+288,U1121,1987,thrifty-protector,variety,Catholic,married,working-class,family,false,social drinker,independent,black,90,1.6
+289,U1121,1987,thrifty-protector,variety,Catholic,married,working-class,family,false,social drinker,independent,black,90,1.6
+290,U1123,1987,hard-worker,technology,Catholic,single,student,family,false,abstemious,independent,green,110,1.75
+291,U1124,1991,hard-worker,none,Catholic,single,student,friends,false,casual drinker,independent,blue,51,1.2
+292,U1125,1990,hard-worker,technology,Catholic,single,student,friends,false,casual drinker,independent,white,57,1.67
+293,U1126,1990,hard-worker,technology,Catholic,single,student,friends,false,casual drinker,independent,purple,65,1.63
+294,U1127,1992,hard-worker,variety,Catholic,single,student,solitary,false,abstemious,independent,black,65,1.76
+295,U1128,1986,thrifty-protector,variety,Catholic,single,student,friends,false,casual drinker,independent,red,66,1.72
+296,U1128,1986,thrifty-protector,variety,Catholic,single,student,friends,false,casual drinker,independent,red,66,1.72
+297,U1128,1986,thrifty-protector,variety,Catholic,single,student,friends,false,casual drinker,independent,red,66,1.72
+298,U1128,1986,thrifty-protector,variety,Catholic,single,student,friends,false,casual drinker,independent,red,66,1.72
+299,U1129,1989,thrifty-protector,variety,none,single,student,friends,false,casual drinker,independent,purple,69,1.69
+300,U1131,1990,hard-worker,eco-friendly,none,married,student,friends,true,social drinker,kids,black,90,1.8
+301,U1132,1991,hard-worker,none,none,single,student,solitary,false,casual drinker,?,blue,55,1.6
+302,U1133,1991,hard-worker,none,none,single,student,family,false,abstemious,independent,orange,60,1.57
+303,U1133,1991,hard-worker,none,none,single,student,family,false,abstemious,independent,orange,60,1.57
+304,U1134,1991,hard-worker,variety,Catholic,single,student,family,false,casual drinker,independent,black,52,1.65
+305,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+306,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+307,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+308,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+309,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+310,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+311,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+312,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+313,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+314,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+315,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+316,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+317,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+318,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+319,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+320,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+321,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+322,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+323,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+324,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+325,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+326,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+327,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+328,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+329,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+330,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+331,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+332,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+333,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+334,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+335,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+336,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+337,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+338,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+339,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+340,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+341,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+342,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+343,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+344,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+345,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+346,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+347,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+348,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+349,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+350,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+351,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+352,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+353,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+354,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+355,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+356,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+357,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+358,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+359,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+360,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+361,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+362,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+363,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+364,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+365,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+366,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+367,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+368,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+369,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+370,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+371,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+372,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+373,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+374,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+375,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+376,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+377,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+378,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+379,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+380,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+381,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+382,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+383,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+384,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+385,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+386,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+387,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+388,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+389,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+390,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+391,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+392,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+393,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+394,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+395,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+396,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+397,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+398,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+399,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+400,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+401,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+402,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+403,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+404,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+405,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+406,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+407,U1135,1988,hunter-ostentatious,variety,Catholic,single,student,family,false,casual drinker,kids,purple,66,1.54
+408,U1136,1990,thrifty-protector,retro,Catholic,single,student,friends,true,social drinker,independent,black,50,1.6
+409,U1137,1989,hard-worker,eco-friendly,Catholic,single,student,family,false,social drinker,independent,blue,72,1.78
+410,U1138,1991,thrifty-protector,variety,none,single,student,friends,false,social drinker,independent,blue,54,1.55
